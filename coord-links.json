@@ -1,0 +1,121 @@
+{
+  "coords": {
+    "9350": {
+      "x": -150.48448571014706,
+      "y": -148.26515536047964
+    },
+    "18766": {
+      "x": -184.86989582218388,
+      "y": 281.23316285369356
+    },
+    "371947": {
+      "x": 541.2514005900936,
+      "y": -208.0664204450668
+    },
+    "1150073": {
+      "x": 667.8679413565685,
+      "y": 430.531291067102
+    },
+    "2437183": {
+      "x": 363.35586389894894,
+      "y": 567.798534924864
+    },
+    "2437735": {
+      "x": 671.6946358260134,
+      "y": 278.43782031446955
+    },
+    "2460290": {
+      "x": 335.5631813039462,
+      "y": 615.5582318668136
+    }
+  }
+  "links": [
+    {
+      "index": 0,
+      "source": {
+        "id": 2437735,
+        "highlighted": false
+      },
+      "target": {
+        "id": 1150073,
+        "highlighted": false
+      },
+      "type": "PARTICIPATED_IN",
+      "properties": {
+        "result": "(Подтвержденно)",
+        "proposed_price": "25000.0"
+      },
+      "isHidden": false
+    },
+    {
+      "index": 1,
+      "source": {
+        "id": 371947,
+        "highlighted": false
+      },
+      "target": {
+        "id": 9350,
+        "highlighted": false
+      },
+      "type": "CONTROLS",
+      "properties": {},
+      "isHidden": false
+    },
+    {
+      "index": 2,
+      "source": {
+        "id": 2437735,
+        "highlighted": false
+      },
+      "target": {
+        "id": 9350,
+        "highlighted": false
+      },
+      "type": "SAME_INN",
+      "properties": {},
+      "isHidden": false
+    },
+    {
+      "index": 3,
+      "source": {
+        "id": 2437183,
+        "highlighted": false
+      },
+      "target": {
+        "id": 18766,
+        "highlighted": false
+      },
+      "type": "SAME_INN",
+      "properties": {},
+      "isHidden": false
+    },
+    {
+      "index": 4,
+      "source": {
+        "id": 2460290,
+        "highlighted": false
+      },
+      "target": {
+        "id": 18766,
+        "highlighted": false
+      },
+      "type": "DIRECTOR",
+      "properties": {},
+      "isHidden": false
+    },
+    {
+      "index": 5,
+      "source": {
+        "id": 371947,
+        "highlighted": false
+      },
+      "target": {
+        "id": 2460290,
+        "highlighted": false
+      },
+      "type": "NAME_SAKE",
+      "properties": {},
+      "isHidden": false
+    }
+  ]
+}
